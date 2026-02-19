@@ -5,3 +5,8 @@
 
 slide_player:
   mode_attract_started: attract
+
+sound_player:
+  mode_attract_started:
+    23_Sea_Battle01:
+      bus: music
